@@ -1,0 +1,14 @@
+# Node (frontend)
+frontend/node_modules/
+frontend/.env
+frontend/dist/
+frontend/build/
+
+# Ballerina (backend)
+backend/target/
+backend/.ballerina/
+backend/.bal
+
+# System files
+.DS_Store
+Thumbs.db

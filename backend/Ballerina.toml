@@ -1,0 +1,8 @@
+[package]
+org = "eshhar"
+name = "shieldlink_backend"
+version = "0.1.0"
+distribution = "2201.12.6"
+
+[build-options]
+observabilityIncluded = true

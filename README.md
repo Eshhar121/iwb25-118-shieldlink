@@ -18,16 +18,16 @@ cd backend
 bal build
 bal run
 Make sure Ballerina is installed: https://ballerina.io/downloads/
-
+```
 💻 Frontend
-bash
+```bash
 Copy
 Edit
 cd frontend
 npm install
 npm run dev
 Ensure Node.js is installed: https://nodejs.org/
-
+```
 🔐 Features
 JWT-based authentication
 

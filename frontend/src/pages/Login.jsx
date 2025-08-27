@@ -1,6 +1,6 @@
 import { useState } from "react";
 import { useNavigate } from "react-router-dom";
-import {login} from "../services/authAPI"
+import {login} from "../services/connectAPIs"
 
 export default function Login() {
   const [formData, setFormData] = useState({ usernameOrEmail: "", password: "" });

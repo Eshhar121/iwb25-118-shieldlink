@@ -3,7 +3,7 @@ import { AuthProvider } from './context/AuthProvider'
 import Home from './pages/Home'
 import Login from './pages/Login'
 import Register from './pages/Register'
-import Dashboard from './pages/Dashboard'
+import Dashboard from './components/Dashboard'
 import './index.css'
 
 export default function App() {

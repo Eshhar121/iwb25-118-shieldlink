@@ -1,6 +1,6 @@
 import { useState } from 'react'
 import toast from 'react-hot-toast'
-import { signup } from '../services/authAPI'
+import { signup } from '../services/connectAPIs'
 import { useNavigate ,Link } from 'react-router-dom'
 
 export default function Register() {
